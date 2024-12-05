@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 6,
+    "cardText": "Dewan pemerintahan baru terbentuk dengan perwakilan dari progresif, konservatif, elit, dan pemberontak. Tapi ketegangan tetap ada",
+    "leftAction": {
+        "text": "Mendorong Kolaborasi Dewan",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -15,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mempertahankan Kepemimpinan Tunggal",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

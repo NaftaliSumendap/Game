@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 2,
+    "cardText": "Konflik mencapai puncak saat pemimpin global memutuskan arah akhir untuk peradaban: dominasi elit, pemerintahan progresif, atau keseimbangan semua pihak.",
+    "leftAction": {
+        "text": "Keseimbangan Semua Pihak",
+        "statsModification": {
+            "coal": -5,
+            "food": -5,
+            "health": 10,
+            "hope": 10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Meminta Konservatif Menggunakan Militer",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

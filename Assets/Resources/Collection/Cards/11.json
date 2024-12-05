@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 1,
+    "cardText": "Pemberontak mengungkap bahwa pihak konservatif telah memanipulasi algoritma Aksara untuk melindungi kepentingan elit.",
+    "leftAction": {
+        "text": "Mengembalikan Aksara ke Versi Awal",
+        "statsModification": {
+            "coal": 0,
+            "food": -10,
+            "health": 20,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menyelidiki Lebih Lanjut",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -10,
+            "hope": 15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

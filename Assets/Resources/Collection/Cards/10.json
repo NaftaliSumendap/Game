@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 1,
+    "cardText": "Pemberontak mulai menarik simpati dari masyarakat. Konservatif ingin menekan mereka, sedangkan progresif melihat ini sebagai momentum untuk reformasi besar.",
+    "leftAction": {
+        "text": "Mendukung Reformasi",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -15,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menekan Gerakan Pemberontak",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 15,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

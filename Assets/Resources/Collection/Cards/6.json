@@ -1,0 +1,29 @@
+{
+    "id": 6,
+    "characterId": 0,
+    "cardText": "Konservatif mendesak pembangunan industri besar untuk meningkatkan ekonomi. Progresif mengusulkan ekonomi lokal berbasis masyarakat.",
+    "leftAction": {
+        "text": "Mendukung Industri Besar",
+        "statsModification": {
+            "coal": -15,
+            "food": 20,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mengembangkan Ekonomi Lokal",
+        "statsModification": {
+            "coal": 0,
+            "food": -10,
+            "health": 0,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

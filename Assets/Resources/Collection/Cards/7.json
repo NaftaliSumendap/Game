@@ -1,0 +1,29 @@
+{
+    "id": 7,
+    "characterId": 4,
+    "cardText": "Ilmuwan menemukan cadangan energi baru, tetapi penggunaannya bisa merusak ekosistem. Progresif dan konservatif berbeda pandangan tajam tentang penggunaannya",
+    "leftAction": {
+        "text": "Mengembangkan Teknologi Alternatif",
+        "statsModification": {
+            "coal": 15,
+            "food": -10,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Memanfaatkan Cadangan Energi",
+        "statsModification": {
+            "coal": -10,
+            "food": 15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

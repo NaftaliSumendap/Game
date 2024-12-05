@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 2,
+    "cardText": "Pemberontak menuntut referendum untuk mengganti kepemimpinan tunggal dengan dewan yang lebih demokratis. Progresif mendukung ide ini, tetapi konservatif menolak keras.",
+    "leftAction": {
+        "text": "Mengadakan Referendum",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -15,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menolak Referendum",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 15,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

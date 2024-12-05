@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 3,
+    "cardText": "Ketegangan antara konservatif dan progresif memuncak di dewan pemerintahan. Para elite memperingatkan bahwa konflik ini bisa mengancam stabilitas seluruh peradaban",
+    "leftAction": {
+        "text": "Mediatori Netral",
+        "statsModification": {
+            "coal": 0,
+            "food": -10,
+            "health": 15,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mendukung Salah Satu Faksi",
+        "statsModification": {
+            "coal": 0,
+            "food": 20,
+            "health": -15,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

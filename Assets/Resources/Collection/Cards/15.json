@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 2,
+    "cardText": "Pemimpin pemberontak mengusulkan untuk menjadi bagian dari pemerintahan baru, dengan syarat bahwa elit harus mundur dari jabatan mereka.",
+    "leftAction": {
+        "text": "Menerima Pemimpin Pemberontak",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -10,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menolak Tawaran",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 15,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

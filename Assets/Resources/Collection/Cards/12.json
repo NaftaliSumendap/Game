@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 2,
+    "cardText": "Pemberontak mulai menduduki fasilitas penting di kota utama, memaksa pemerintah untuk membuat keputusan. Progresif menyarankan negosiasi, tetapi konservatif ingin intervensi militer segera.",
+    "leftAction": {
+        "text": "Negosiasi dengan Pemberontak",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -15,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menggunakan Kekuatan Militer",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "characterId": 4,
+    "cardText": "Ilmuwan mengajukan rencana infrastruktur ramah lingkungan. Konservatif menolaknya karena dianggap terlalu mahal, sementara progresif mendorong implementasi segera.",
+    "leftAction": {
+        "text": "Menggunakan Teknologi Ramah Lingkungan",
+        "statsModification": {
+            "coal": 20,
+            "food": -15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Memprioritaskan Infrastruktur Murah",
+        "statsModification": {
+            "coal": -10,
+            "food": 15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

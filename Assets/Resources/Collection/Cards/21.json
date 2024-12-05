@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 4,
+    "cardText": "Ilmuwan memulihkan Aksara dan memintanya memberikan solusi netral untuk konflik ini. Namun, beberapa pihak skeptis terhadap algoritma yang dianggap bias.",
+    "leftAction": {
+        "text": "Mengikuti Rekomendasi Aksara",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mengambil Keputusan Sendiri",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -10,
+            "hope": 15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

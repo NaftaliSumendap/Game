@@ -1,0 +1,29 @@
+{
+    "id": 0,
+    "characterId": 6,
+    "cardText": "Setelah mendarat di daratan baru, elit mengusulkan pembangunan kota utama. Progresif ingin memastikan akses merata, sementara konservatif mendesak kontrol penuh untuk elit.",
+    "leftAction": {
+        "text": "Mendukung Progresif",
+        "statsModification": {
+            "coal": 0,
+            "food": -10,
+            "health": 0,
+            "hope": 15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mendukung Konservatif",
+        "statsModification": {
+            "coal": 0,
+            "food": 15,
+            "health": 0,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

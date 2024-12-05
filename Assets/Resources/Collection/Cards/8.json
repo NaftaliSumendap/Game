@@ -1,0 +1,29 @@
+{
+    "id": 8,
+    "characterId": 2,
+    "cardText": "Pemberontak mulai mengungkap bukti bahwa bencana global disebabkan oleh eksploitasi alam oleh elit. Ketegangan di masyarakat meningkat.",
+    "leftAction": {
+        "text": "Mengakui Kesalahan Masa Lalu",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -20,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Membungkam Pemberontak",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

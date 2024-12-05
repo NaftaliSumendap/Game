@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 6,
+    "cardText": "Akibat eksploitasi sumber daya, beberapa wilayah mengalami kerusakan ekologis parah. Progresif mendesak rehabilitasi, tetapi konservatif menolak karena biaya tinggi",
+    "leftAction": {
+        "text": "Melakukan Rehabilitasi",
+        "statsModification": {
+            "coal": 20,
+            "food": -15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mengabaikan Kerusakan",
+        "statsModification": {
+            "coal": -10,
+            "food": 20,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

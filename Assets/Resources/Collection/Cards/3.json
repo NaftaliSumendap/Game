@@ -1,0 +1,34 @@
+{
+    "id": 3,
+    "characterId": 4,
+    "cardText": "Ilmuwan menyarankan untuk memberikan kendali lebih besar kepada Aksara. Konservatif merasa ini akan merusak peran manusia dalam pemerintahan, sementara progresif mendukung ide ini.",
+    "leftAction": {
+        "text": "Meningkatkan Kendali Aksara",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 20,
+            "hope": -15
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menahan Kendali Aksara",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -10,
+            "hope": 15
+        },
+        "followup": [
+            {
+                "id": 4,
+                "delay": 2
+            }
+        ],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

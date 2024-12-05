@@ -1,0 +1,29 @@
+{
+    "id": 4,
+    "characterId": 5,
+    "cardText": "Aksara memperingatkan bahwa deforestasi di daratan baru meningkat. Progresif ingin melarang eksploitasi hutan, tetapi konservatif melihatnya sebagai peluang ekonomi.",
+    "leftAction": {
+        "text": "Melindungi Hutan",
+        "statsModification": {
+            "coal": 20,
+            "food": -15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Memanfaatkan Sumber Daya",
+        "statsModification": {
+            "coal": -10,
+            "food": 20,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

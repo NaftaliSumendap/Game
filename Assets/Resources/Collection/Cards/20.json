@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 4,
+    "cardText": "Ilmuwan mengungkap bahwa daratan baru tidak cukup luas untuk mendukung populasi jika semua sumber daya digunakan secara sembarangan.",
+    "leftAction": {
+        "text": "Memprioritaskan Ekonomi Berkelanjutan",
+        "statsModification": {
+            "coal": 20,
+            "food": -15,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Meminta Konservatif Menggunakan Militer",
+        "statsModification": {
+            "coal": -10,
+            "food": 20,
+            "health": 0,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

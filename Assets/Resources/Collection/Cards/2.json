@@ -1,0 +1,29 @@
+{
+    "id": 2,
+    "characterId": 6,
+    "cardText": "Kelompok penyintas dari luar Bahtera tiba di wilayah baru. Progresif ingin menerima mereka, tetapi konservatif menganggap mereka ancaman keamanan.",
+    "leftAction": {
+        "text": "Terima Mereka",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -10,
+            "hope": 22
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Tolak Mereka",
+        "statsModification": {
+            "coal": 20,
+            "food": 20,
+            "health": 15,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

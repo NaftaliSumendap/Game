@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "characterId": 4,
+    "cardText": "Progresif mulai mempersoalkan dominasi elit dalam pengambilan keputusan. Konservatif memperingatkan bahwa gerakan ini bisa mengancam stabilitas",
+    "leftAction": {
+        "text": "Membatasi Kekuasaan Elit",
+        "statsModification": {
+            "coal": -10,
+            "food": 0,
+            "health": 15,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Mempertahankan Status Quo",
+        "statsModification": {
+            "coal": 15,
+            "food": 0,
+            "health": -10,
+            "hope": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

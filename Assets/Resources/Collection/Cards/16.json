@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 3,
+    "cardText": "Bukti baru menunjukkan bahwa elit tidak hanya mengetahui tentang bencana sebelumnya, tetapi juga mempercepatnya demi keuntungan pribadi.",
+    "leftAction": {
+        "text": "Membuka Fakta ke Publik",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": -15,
+            "hope": 20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Menutup Fakta",
+        "statsModification": {
+            "coal": 0,
+            "food": 0,
+            "health": 15,
+            "hope": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}
